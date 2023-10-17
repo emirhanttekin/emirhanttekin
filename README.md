@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/emirhanttekinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/emirhanttekinn" height="30" width="40" /></a>
+<a href="https://twitter.com/emirhanttekinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/emirhanttekinn" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/emirhan-tekin-a31691237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emirhan-tekin-a31691237/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22669068/emirhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22669068/emirhan" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@emirhan.tekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@emirhan.tekin" height="30" width="40" /></a>

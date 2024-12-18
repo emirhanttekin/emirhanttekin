@@ -2,6 +2,7 @@
 👨‍💻 I'm currently working on: Android and Full Stack development projects.<br>🤝 I'm looking to collaborate on: Open-source projects or innovative software solutions.<br>🛠️ I'm looking for help with: Improving scalability and performance in large-scale applications.<br>🌱 I'm currently learning: Advanced cloud architecture and microservices design.<br>💬 Ask me about: Kotlin, C#, .NET Core, JavaScript (Node.js), clean architecture, onion architecture, MVVM, MVC, or N-tier architecture.<br>🛠 Databases: MySQL, SQL Server<br>☁️ Platforms: Heroku, Firebase<br>🎯 Fun fact: I'm passionate about optimizing code and constantly exploring new tech tools to stay efficient.<br><br>Tools I use: Android Studio, JetBrains Rider, Visual Studio.
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emirhan-tekin-a31691237/) 
 
